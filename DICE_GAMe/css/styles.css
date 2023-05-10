@@ -1,0 +1,41 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color: #8f374a;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+    color: #f0f1f1;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #e4f0ec;
+    font-family: 'Caveat', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+  
+  }
+  
